@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Matematico
+comment0.text=\r\n\ Nuestro\ matem\u00E1tico\ es\ una\ persona\ bastante\ inteligente\r\n\ por\ lo\ que\ es\ capaz\ de\ realizar\ \r\n\ muchos\ \ c\u00E1lculos\ el\ solo,\ sin\ la\ ayuda\ de\ una\ calculadora\ ni\ nadie\ mas.\r\n\ @Jos\u00E9\ Roberto\ Vargas\ Orellana\r\n\ \r\n\ \r\n\ Las\ operaciones\ que\ nuestro\ matem\u00E1tico\ sabe\ realizar\ son\:\ \r\n\u2022\ Dados\ tres\ n\u00FAmeros\:\ El\ matem\u00E1tico\ sabe\ indicar\ cual\ es\ el\ numero\ mayor,\r\ncual\ el\ menor\ y\ cual\ del\ medio.\ \r\n\u2022\ Dados\ la\ base\ y\ altura\ de\ un\ cuadrado\:\ El\ sabe\ indicar\ el\ \u00E1rea\ de\ dicha\ \r\nfigura.\ \u2022\ Dados\ las\ coordenadas\ de\ dos\ puntos\:\ Sabe\ calcular\ distancia\ \r\nentre\ estos\ puntos.\ \u2022\ Dado\ las\ coordenadas\ de\ un\ punto\:\ Es\ capaz\ de\ indicar\r\nen\ que\ cuadrante\ se\ encuentra\ dicho\ punto.\ \r\nTu\ labor\ es\ implementar\ una\ clase\ que\ nos\ permite\ representar\ \r\nal\ matem\u00E1tico.\ Debes\ identificar\ los\ m\u00E9todos\ necesarios\ e\ implementarlos.\ \r\n\r\n
+comment1.params=n1\ n2\ n3
+comment1.target=java.lang.String\ DeterminarElMayorMenorEIgual(double,\ double,\ double)
+comment2.params=base\ altura
+comment2.target=java.lang.String\ DeterminarAreaCuadrados(double,\ double)
+comment3.params=punto1\ punto2
+comment3.target=java.lang.String\ DistanciaPuntos(Punto,\ Punto)
+comment4.params=puntocuadrante
+comment4.target=java.lang.String\ determinarcuadrante(Punto)
+numComments=5
